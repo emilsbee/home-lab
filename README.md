@@ -1,6 +1,6 @@
 ## Home lab setup
 
-All services run as Docker containers behind a Traefik reverse proxy. Sensitive configuration values should be in a .env file so a .env.example is provided with examples. 
+All services run as Docker containers behind a [Traefik](https://traefik.io/) reverse proxy. Sensitive configuration values should be in a `.env` file so a `.env.example` is provided with examples. 
 
 Currently hosted applications:
 - [Traefik](https://traefik.io/)
